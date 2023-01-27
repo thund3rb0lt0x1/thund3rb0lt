@@ -10,6 +10,8 @@
 ### <img src="https://github.com/thund3rb0lt0x1/thund3rb0lt/blob/main/Assets/Hi.gif" width="29px"> **Hello world!** &nbsp;<img src="https://github.com/thund3rb0lt0x1/thund3rb0lt/blob/main/Assets/Earth.gif" width="24px">
 <!--
 An ethical hacker, also known as a white hat hacker, is someone who uses their skills and knowledge to identify and fix vulnerabilities in computer systems and networks. "Hi, my name is Karthik Goud. I am an ethical hacker and specialize in identifying and resolving security issues in computer systems and networks."
+When you see a good move, look for a better one.
+When we lose our principles, we invite chaos.
 --->
 <p>
   <em>
@@ -24,12 +26,10 @@ An ethical hacker, also known as a white hat hacker, is someone who uses their s
 <br>
 
 - <img alt="GIF" src="https://github.com/thund3rb0lt0x1/thund3rb0lt/blob/main/Assets/wave.gif" width="20px" /> I’m *currently* **sleeping** 😴 or *working* on my **laptop** 👨‍💻
-- <img alt="GIF" src="https://github.com/thund3rb0lt0x1/thund3rb0lt/blob/main/Assets/gandalf_parrot.gif" width="20px" /> I’m *currently learning* how to **flex README** on my **profile** 💪.
+- <img alt="GIF" src="https://github.com/thund3rb0lt0x1/thund3rb0lt/blob/main/Assets/gandalf_parrot.gif" width="20px" /> **Hack, Sleep, Eat, Repeat** 💪.
 - <img alt="GIF" src="https://github.com/thund3rb0lt0x1/thund3rb0lt/blob/main/Assets/headbang.gif" width="20px" /> I’m *looking to collaborate* on **CyberSecurity 🐍 projects**.
 - <img alt="GIF" src="https://github.com/thund3rb0lt0x1/thund3rb0lt/blob/main/Assets/hmm.gif" width="20px" /> I’m *looking* for *help* with **wifi connection 🌐**
-- <img alt="GIF" src="https://github.com/thund3rb0lt0x1/thund3rb0lt/blob/main/Assets/happy.gif" width="20px" /> *Ask me* about **why do I think aliens 👽 exist.**
-- <img alt="GIF" src="https://github.com/thund3rb0lt0x1/thund3rb0lt/blob/main/Assets/powerup.gif" width="20px" /> **Pronouns:** [*He/Him*](https://pronoun.is/he) 🧔
-- <img alt="GIF" src="https://github.com/thund3rb0lt0x1/thund3rb0lt/blob/main/Assets/coin.gif" width="20px" /> **Fun fact:** My *smartness* 💡 lies in my *laziness* 😴
+- <img alt="GIF" src="https://github.com/thund3rb0lt0x1/thund3rb0lt/blob/main/Assets/powerup.gif" width="20px" /> When we lose our principles, we invite *chaos*. 🧔
 
 
 <br>
@@ -49,7 +49,7 @@ An ethical hacker, also known as a white hat hacker, is someone who uses their s
 
 
 | [<img src="https://github.com/thund3rb0lt0x1/thund3rb0lt/blob/main/Assets/Linkedin.svg" alt="Linkedin Logo" width="32">](hhttps://www.linkedin.com/in/kasani-karthik-goud-b140321ab) | [<img src="https://github.com/thund3rb0lt0x1/thund3rb0lt/blob/main/Assets/Twitter.svg" alt="Twitter Logo" width="32">](https://twitter.com/kasani_123) | [<img src="https://github.com/thund3rb0lt0x1/thund3rb0lt/blob/main/Assets/Instagram.svg" alt="instagram logo" width="32">](https://www.instagram.com/k4rthikg0ud/)| [<img src="https://cdn.svgporn.com/logos/github-icon.svg" alt="Github logo" width="34">](https://github.com/thund3rb0lt0x1) | [<img src="https://github.com/thund3rb0lt0x1/thund3rb0lt/blob/main/Assets/htb.svg" alt="HackerRank Logo" width="30">](https://www.hackthebox.com/) | [<img src="https://github.com/thund3rb0lt0x1/thund3rb0lt/blob/main/Assets/tryhackme_logo_full.svg" alt="Stackoverflow Logo" width="28">](https://tryhackme.com/) | [<img src="https://github.com/thund3rb0lt0x1/thund3rb0lt/blob/main/Assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:thedudethatcode@gmail.com)
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 
 
 
