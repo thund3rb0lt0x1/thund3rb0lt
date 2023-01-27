@@ -26,17 +26,16 @@ When we lose our principles, we invite chaos.
 <br>
 
 - <img alt="GIF" src="https://github.com/thund3rb0lt0x1/thund3rb0lt/blob/main/Assets/wave.gif" width="20px" /> I’m *currently* **sleeping** 😴 or *working* on my **laptop** 👨‍💻
-- <img alt="GIF" src="https://github.com/thund3rb0lt0x1/thund3rb0lt/blob/main/Assets/gandalf_parrot.gif" width="20px" /> **Hack, Sleep, Eat, Repeat** 💪.
-- <img alt="GIF" src="https://github.com/thund3rb0lt0x1/thund3rb0lt/blob/main/Assets/headbang.gif" width="20px" /> I’m *looking to collaborate* on **CyberSecurity 🐍 projects**.
+- <img alt="GIF" src="https://github.com/thund3rb0lt0x1/thund3rb0lt/blob/main/Assets/gandalf_parrot.gif" width="20px" /> **Eat, Sleep, Hack, Repeat** 💪.
+- <img alt="GIF" src="https://github.com/thund3rb0lt0x1/thund3rb0lt/blob/main/Assets/headbang.gif" width="20px" /> I’m *looking to collaborate* on **CyberSecurity projects**.
 - <img alt="GIF" src="https://github.com/thund3rb0lt0x1/thund3rb0lt/blob/main/Assets/hmm.gif" width="20px" /> I’m *looking* for *help* with **wifi connection 🌐**
-- <img alt="GIF" src="https://github.com/thund3rb0lt0x1/thund3rb0lt/blob/main/Assets/powerup.gif" width="20px" /> When we lose our principles, we invite *chaos*. 🧔
+- <img alt="GIF" src="https://github.com/thund3rb0lt0x1/thund3rb0lt/blob/main/Assets/powerup.gif" width="20px" /> *When we lose our principles, we invite* **chaos**. 🧔
 
 
 <br>
 <br>
-<!--
-![Shubhamdeep's github stats](https://github-readme-stats.vercel.app/api?username=TheDudeThatCode&show_icons=true&hide_border=true)
--->
+
+<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/RyXVu4ZW454IM" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/RyXVu4ZW454IM">via GIPHY</a></p>
 
 <br>
 
