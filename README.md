@@ -34,9 +34,6 @@ When we lose our principles, we invite chaos.
 
 <br>
 <br>
-
-<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/RyXVu4ZW454IM" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/RyXVu4ZW454IM">via GIPHY</a></p>
-
 <br>
 
 <img src="https://github.com/thund3rb0lt0x1/thund3rb0lt/blob/main/Assets/Mario_Gameplay.gif" alt="Mario Game" width="980">
