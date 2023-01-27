@@ -16,7 +16,7 @@ When we lose our principles, we invite chaos.
 <p>
   <em>
     I am a 3rd Year undergraduate from <a href="http://www.gprdpgc.org/"> <b>G. Pullareddy Degree & P.G College</b>, Mehdipatnam</a>.  
-    I am an <b>Cyber Security Expert</b> <img src="https://github.com/thund3rb0lt0x1/thund3rb0lt/blob/main/Assets/Developer.gif" width="30px"> and specialize in <b>Identifying and Resolving security issues</b>&nbsp;<img src="https://github.com/thund3rb0lt0x1/thund3rb0lt/blob/main/Assets/security.gif" width="25px">  in computer systems and networks. who is <b>obsessed</b>
+    I am an <b>Cyber Security Expert</b> <img src="https://github.com/thund3rb0lt0x1/thund3rb0lt/blob/main/Assets/Developer.gif" width="30px"> and specialize in <b>Identifying and Resolving security issues</b>&nbsp;<img src="https://github.com/thund3rb0lt0x1/thund3rb0lt/blob/main/Assets/security.gif" width="20px">  in computer systems and networks. who is <b>obsessed</b>
     with the idea of <b>improving</b> himself and wants a <b>platform</b> to 
     <b>grow</b> <img src="https://github.com/thund3rb0lt0x1/thund3rb0lt/blob/main/Assets/Rocket.gif" width="18px">and 
     <b>excel.</b> <img src="https://github.com/thund3rb0lt0x1/thund3rb0lt/blob/main/Assets/Medal.gif" width="20px">
